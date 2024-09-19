@@ -1,2 +1,2 @@
 # teste
-teste de recriação de repositório
+teste de criação de repositório
